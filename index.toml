@@ -132,6 +132,11 @@ hash = "294fd9baebd1336bce4e3d77ab46b17cde65a11b7d268814e48b39637b81b9f4"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "29f7150b295500e60e66f3015ab62ba459dbd9e3450e035b26fff805fad2d28b"
 metafile = true
@@ -257,6 +262,11 @@ hash = "78f676cf264658e720a6522f12c52af65f536071b73720b0f26f44834c7a0cdc"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "972542c756ef716039ecf71d908d7bc8d0d238590f79d4bcadb21fba4c0fe399"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "9f6f6037b1532fcb454369f03f5247bb6a7ec28da93a3c0ddc1c08b89ad84c79"
 metafile = true
@@ -314,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "61b7b4086c3e786b80da466587a7a09b2969a3ab26d416147e283dae26b32f20"
 metafile = true
 
 [[files]]
@@ -379,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "9826c6020d1498b3c80d825f6ad272234c201b3ace8fb862e2aeebd7bb45fb74"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9adb72d4052da5de1ea02b62471ce030da8fda51e57cf9ac493718d698685f0a"
 metafile = true
 
 [[files]]
