@@ -1,0 +1,13 @@
+name = "Update 1.21 without trial chambers"
+filename = "no-trial-chambers-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qmeKRMsC/versions/pX46DHKC/no-trial-chambers-1.2.jar"
+hash-format = "sha1"
+hash = "3d6e71427e8b2fffca7c01c58d655a070ff8f5b7"
+
+[update]
+[update.modrinth]
+mod-id = "qmeKRMsC"
+version = "pX46DHKC"

@@ -1,0 +1,13 @@
+name = "Softer Hay Bales"
+filename = "softerhaybales-1.20.4-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RtmujAUl/versions/oTgLquyP/softerhaybales-1.20.4-3.2.jar"
+hash-format = "sha1"
+hash = "69f3bc56657c3c8a0e0ba7032849e06c19fb259e"
+
+[update]
+[update.modrinth]
+mod-id = "RtmujAUl"
+version = "oTgLquyP"

@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-fabric-1.20.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/sPMtsdhb/globalpacks-fabric-1.20.2-1.16.5.jar"
+hash-format = "sha1"
+hash = "af2628f94472ffb2fb62db96b9392df50d6bdfd8"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "sPMtsdhb"

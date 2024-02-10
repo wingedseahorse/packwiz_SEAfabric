@@ -1,0 +1,13 @@
+name = "GUI Followers"
+filename = "guifollowers-1.20.4-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hTGmExq6/versions/EKKvLCgd/guifollowers-1.20.4-3.5.jar"
+hash-format = "sha1"
+hash = "6e470203d4792923ea84f232731c421794a6c8cd"
+
+[update]
+[update.modrinth]
+mod-id = "hTGmExq6"
+version = "EKKvLCgd"
