@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "ce2e213894f0b717ca6baeb3244bb14f188798e712cb85404fd33f5f31793c76"
+
+[[files]]
 file = "global_packs/required_data/VanillaTweaks_c741735_MC1.20-1.20.4.zip"
 hash = "6e9c08ce69a82d7bd2465cbfc7062d7f25cc6f48a5f96f245ad12ada6d69bc12"
 
@@ -41,10 +45,6 @@ file = "global_packs/required_data/more mob heads v2.12.3 (MC 1.20-1.20.4).zip"
 hash = "77cd469c03190cb841e786be4d972744e66e731c6df7cbd2248465b3d33d1e45"
 
 [[files]]
-file = "global_packs/required_data/name colors v1.0.4 (MC 1.20-1.20.4).zip"
-hash = "0621e2235b26f191c2bd0af3da0c5b6a58a1f4d29bf650243cb04d8036a78e93"
-
-[[files]]
 file = "global_packs/required_data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
 
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
+hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
@@ -187,11 +187,6 @@ hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
 metafile = true
@@ -203,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "d1ed35943d45fee289113bb614b24382b949dfadad1d7dc786d4356cb7887baa"
 metafile = true
 
 [[files]]
@@ -219,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
-metafile = true
-
-[[files]]
-file = "mods/fog-looks-good-now-fabric.pw.toml"
-hash = "c9460aa90d6daf7a125729230db0cf3eb9fb5479b3d7ac5c754dc3f9bfd896e6"
 metafile = true
 
 [[files]]
@@ -343,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a4edf114ab489c47edbf44dcded6693ace1168bffafdaa374f371c67167e84f6"
+hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
@@ -358,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d4d273d2a9b9c0779ecd3aaceab3112fafb861a663afd52a0fb928442bd7783e"
+hash = "72118e2989fcf524e7c626fc0606f21aa1c23e2dd76d19d0cab741c4f06ad773"
 metafile = true
 
 [[files]]
@@ -413,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "5135880ab20a55936c33793c72b983147c30712ecb8a74760507aacffe9ec526"
+hash = "5ab36bcb9cd8288b97c4ba9ada144d0b39746be11d4b5a057551dbe026eea95e"
 metafile = true
 
 [[files]]
