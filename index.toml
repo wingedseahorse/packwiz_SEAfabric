@@ -247,6 +247,11 @@ hash = "f9433456491786a6741a195aa9f515d58b91e0eb0a19e58f89b7494915eed72b"
 metafile = true
 
 [[files]]
+file = "mods/headfix.pw.toml"
+hash = "c5dfcf7848a0e1f4502505076d257d0801a6e98a5badcf176c13a64183a111cb"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dc73621707877be400c3dc8ca4c4fe8bb54cabdac7ed25fef1270b79e3b25615"
 metafile = true
