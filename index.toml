@@ -337,11 +337,6 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
-file = "mods/no-trial-chambers.pw.toml"
-hash = "701bd8e091ee1403f9433145a4b1355cea850db8e146cd04dbcac90c43ff99bb"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
@@ -424,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "7f148daee130716f4c5160113e635a6d067c28944994f84d2471beba4d9c2842"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "1770b6174098a4030168201496a481fd9c335010104770b84636f17f3ef523c2"
 metafile = true
 
 [[files]]
