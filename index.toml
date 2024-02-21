@@ -37,10 +37,6 @@ file = "global_packs/required_data/homes v1.5.7 (MC 1.20-1.20.4).zip"
 hash = "bdfd07f69375b74363e02aafbea2a71cb67dd604110bd6ed34f83d9989010752"
 
 [[files]]
-file = "global_packs/required_data/larger phantoms v1.2.7 (MC 1.20-1.20.4).zip"
-hash = "780a04013c66940158e7693ca4e4bbeb341c16584bc73996d29f8549bb23686f"
-
-[[files]]
 file = "global_packs/required_data/more mob heads v2.12.3 (MC 1.20-1.20.4).zip"
 hash = "77cd469c03190cb841e786be4d972744e66e731c6df7cbd2248465b3d33d1e45"
 
@@ -309,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
-metafile = true
-
-[[files]]
-file = "mods/more-mobs.pw.toml"
-hash = "25237fb051ea19237b6e3a3190b4fe395f7609eff3b0d3ff3c898fd19d2e53ca"
 metafile = true
 
 [[files]]
