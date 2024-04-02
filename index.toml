@@ -98,11 +98,6 @@ hash = "92c9a2f1b0d57e08b18fab61bf1aa5aa772e346d473e58d4d377a877fe32b340"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "4e15b840dd4d26308f7a509f732b9b0e9044bdc36628515dde050ea03fe97f52"
-metafile = true
-
-[[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "5baff509e15191ce87768452222f1a171d0d6e81c06a176451aaa20a7743816c"
 metafile = true
@@ -275,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
 metafile = true
 
 [[files]]
